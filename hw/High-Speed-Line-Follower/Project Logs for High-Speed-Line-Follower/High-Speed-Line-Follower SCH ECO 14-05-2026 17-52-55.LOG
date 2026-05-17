@@ -1,0 +1,4 @@
+Added Rule: Name=MaxMinWidth_1
+Modified Rule: Name=Schematic Differential Pairs Routing
+Modified Rule: Name=Schematic Routing Via Style
+Modified Rule: Name=Schematic Width Constraint

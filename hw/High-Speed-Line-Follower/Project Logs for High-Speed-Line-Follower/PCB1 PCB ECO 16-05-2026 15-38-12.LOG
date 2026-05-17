@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=+3V3 Pin=D5-2
+Added Pin To Net: NetName=RST Pin=U1-7
+Added Pin To Net: NetName=STBY Pin=U1-22
+Added Pin To Net: NetName=M-PWM-ON/OFF Pin=U1-29
+Added Pin To Net: NetName=AIN1 Pin=U1-40
+Added Pin To Net: NetName=AIN2 Pin=U1-41
+Added Pin To Net: NetName=BIN1 Pin=U1-42
+Added Pin To Net: NetName=BIN2 Pin=U1-43
+Added Pin To Net: NetName=BT0 Pin=U1-44
+Added Pin To Net: NetName=PWMA Pin=U1-45
+Added Pin To Net: NetName=PWMB Pin=U1-46
+Added Pin To Net: NetName=out_fb Pin=U2-4
+Added Pin To Net: NetName=A0 Pin=J5-9
+Added Pin To Net: NetName=A0 Pin=U1-10
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=J5-8
+Added Pin To Net: NetName=A1 Pin=U1-11
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J5-7
+Added Pin To Net: NetName=A2 Pin=U1-12
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J5-6
+Added Pin To Net: NetName=A3 Pin=U1-13
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J5-5
+Added Pin To Net: NetName=A4 Pin=U1-14
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=J5-4
+Added Pin To Net: NetName=A5 Pin=U1-15
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=J5-3
+Added Pin To Net: NetName=A6 Pin=U1-16
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=J5-2
+Added Pin To Net: NetName=A7 Pin=U1-17
+Added Net: Name=A7
+Added Pin To Net: NetName=C13 Pin=R6-1
+Added Pin To Net: NetName=C13 Pin=U1-2
+Added Net: Name=C13
+Added Pin To Net: NetName=IR Pin=J5-10
+Added Pin To Net: NetName=IR Pin=U1-18
+Added Net: Name=IR
+Added Pin To Net: NetName=IR-INT Pin=Q3-1
+Added Pin To Net: NetName=IR-INT Pin=U1-21
+Added Net: Name=IR-INT
+Added Pin To Net: NetName=RX Pin=P2-3
+Added Pin To Net: NetName=RX Pin=U1-31
+Added Net: Name=RX
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TX Pin=P2-2
+Added Pin To Net: NetName=TX Pin=U1-30
+Added Net: Name=TX
+Added Member To Class: ClassName=High-Speed-Line-Follower Member=Component J3 MOTOR-A

@@ -1,0 +1,55 @@
+Net Status Report
+Filename     : C:\Users\Nexus\git\High-Speed-Line-Follower\hw\High-Speed-Line-Follower\PCB\PCB-v0.PcbDoc
+Date         : 14/05/2026
+Time         : 18:17:45
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    +3V3, Signal Layers Only, 0mils
+    12V-9V, Signal Layers Only, 0mils
+    A0, Signal Layers Only, 0mils
+    A1, Signal Layers Only, 0mils
+    A2, Signal Layers Only, 0mils
+    A3, Signal Layers Only, 0mils
+    A4, Signal Layers Only, 0mils
+    A5, Signal Layers Only, 0mils
+    A6, Signal Layers Only, 0mils
+    A7, Signal Layers Only, 0mils
+    AIN1, Signal Layers Only, 0mils
+    AIN2, Signal Layers Only, 0mils
+    BIN1, Signal Layers Only, 0mils
+    BIN2, Signal Layers Only, 0mils
+    BT0, Signal Layers Only, 0mils
+    C13, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    IR, Signal Layers Only, 0mils
+    IR-IRP, Signal Layers Only, 0mils
+    M-PWM-ON/OFF, Signal Layers Only, 0mils
+    NetC17_2, Signal Layers Only, 0mils
+    NetC18_2, Signal Layers Only, 0mils
+    NetC19_1, Signal Layers Only, 0mils
+    NetC19_2, Signal Layers Only, 0mils
+    NetC20_1, Signal Layers Only, 0mils
+    NetC20_2, Signal Layers Only, 0mils
+    NetC21_2, Signal Layers Only, 0mils
+    NetD1_1, Signal Layers Only, 0mils
+    NetD2_1, Signal Layers Only, 0mils
+    NetD4_1, Signal Layers Only, 0mils
+    NetD5_1, Signal Layers Only, 0mils
+    NetD6_2, Signal Layers Only, 0mils
+    NetD7_2, Signal Layers Only, 0mils
+    PWMA, Signal Layers Only, 0mils
+    PWMB, Signal Layers Only, 0mils
+    RST, Signal Layers Only, 0mils
+    RX, Signal Layers Only, 0mils
+    STBY, Signal Layers Only, 0mils
+    SWCLK, Signal Layers Only, 0mils
+    SWDIO, Signal Layers Only, 0mils
+    SW_12V-9V, Signal Layers Only, 0mils
+    TX, Signal Layers Only, 0mils
+    osc32_in, Signal Layers Only, 0mils
+    osc32_out, Signal Layers Only, 0mils
+    osc_in, Signal Layers Only, 0mils
+    osc_out, Signal Layers Only, 0mils
+    out_fb, Signal Layers Only, 0mils
+count : 47
