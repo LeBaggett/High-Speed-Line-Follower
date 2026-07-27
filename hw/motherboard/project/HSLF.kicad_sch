@@ -7,7 +7,7 @@
 	(title_block
 		(title "HSFL MotherBoard")
 		(date "2026-07-16")
-		(rev "0")
+		(rev "1")
 		(company "Kauê Lucas Nascimento da Silva & Laio")
 	)
 	(lib_symbols
@@ -9125,16 +9125,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 140.97) (xy 330.2 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1980e187-c210-4dbe-a742-1af81d0a7e12")
-	)
-	(wire
-		(pts
 			(xy 237.49 58.42) (xy 213.36 58.42)
 		)
 		(stroke
@@ -9802,6 +9792,16 @@
 			(type default)
 		)
 		(uuid "4b8b1d89-ebc8-4fe4-8e43-403cdf15af71")
+	)
+	(wire
+		(pts
+			(xy 312.42 133.35) (xy 327.66 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb5981b-29d7-4f7b-b2e1-fde6c96d94fd")
 	)
 	(wire
 		(pts
@@ -10595,6 +10595,26 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 143.51) (xy 330.2 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97dc4f1e-21d5-4142-8f3b-04bb23c72e79")
+	)
+	(wire
+		(pts
+			(xy 327.66 140.97) (xy 327.66 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9894e34f-1f42-4f2d-b3df-9f15ee16955b")
+	)
+	(wire
+		(pts
 			(xy 262.89 165.1) (xy 270.51 165.1)
 		)
 		(stroke
@@ -10852,6 +10872,16 @@
 			(type default)
 		)
 		(uuid "b7b23f1a-5de9-4a9c-93a8-02c3209c626d")
+	)
+	(wire
+		(pts
+			(xy 312.42 130.81) (xy 330.2 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9485e77-278b-48a1-938c-eb018bb0d55a")
 	)
 	(wire
 		(pts
@@ -11202,6 +11232,16 @@
 			(type default)
 		)
 		(uuid "e002d4a6-50d7-433b-97c9-e214925b0d43")
+	)
+	(wire
+		(pts
+			(xy 320.04 140.97) (xy 327.66 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e01fe81d-60e2-4066-b2a3-14af65cd11b2")
 	)
 	(wire
 		(pts
@@ -11743,6 +11783,16 @@
 		)
 		(uuid "4756c6cd-db06-4ca8-b50c-81b4cf964664")
 	)
+	(label "Conn_USBC_D-"
+		(at 312.42 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50f9cc00-82a2-4f90-8e65-9ed6ec54c0b7")
+	)
 	(label "LED"
 		(at 251.46 241.3 0)
 		(effects
@@ -11863,16 +11913,6 @@
 		)
 		(uuid "b29ad275-8ea1-4b78-8039-52c002d3b36a")
 	)
-	(label "USBC_D+"
-		(at 330.2 140.97 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b627dbdd-e5ac-457b-82c7-2374cf97ca8c")
-	)
 	(label "TX_IR"
 		(at 238.76 140.97 180)
 		(effects
@@ -11943,6 +11983,16 @@
 		)
 		(uuid "e7184066-9c41-4d09-84d6-9acf5090eb47")
 	)
+	(label "Conn_USBC_D+"
+		(at 312.42 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8bedd7f-7718-4bef-aaef-70b1082a9add")
+	)
 	(label "SWDIO"
 		(at 270.51 165.1 180)
 		(effects
@@ -11962,16 +12012,6 @@
 			(justify left bottom)
 		)
 		(uuid "ef459663-42d7-412b-b5f4-5de995eb32ef")
-	)
-	(label "USBC_D-"
-		(at 330.2 143.51 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f2406050-e8c9-4979-a25d-9c643b484926")
 	)
 	(label "5VA-decoupled"
 		(at 232.41 58.42 180)
