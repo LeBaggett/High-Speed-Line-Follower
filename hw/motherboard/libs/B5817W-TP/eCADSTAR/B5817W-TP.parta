@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1255215"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-01-04:42:53)
+    (utime 2024-05-17-16:34:44)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B5817W-TP")
+)
+
+
+(pinAssign "ECS_1255215"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-01-04:42:53)
+    (utime 2024-05-17-16:34:44)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1255215")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B5817W-TP")
+)
+
+
+(part "B5817W-TP"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-01-04:42:53)
+    (utime 2024-05-17-16:34:44)
+    (packageRef "B5817W-TP")
+    (pinAssignRef "ECS_1255215")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Diode 20 V 1A Surface Mount SOD-123")
+    (property "Mouser_Part_Number" "833-B5817W-TP")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/B5817W-TP?qs=6viq6gG%252BWEv8BqnTXWtCWg%3D%3D")
+    (property "Manufacturer_Name" "MCC")
+    (property "Manufacturer_Part_Number" "B5817W-TP")
+    (property "Datasheet_Link" "https://www.mccsemi.com/pdf/Products/B5817W-B5819W(SOD-123).pdf")
+    (property "compAreaTopHeight" 1.35)
+)
+
+

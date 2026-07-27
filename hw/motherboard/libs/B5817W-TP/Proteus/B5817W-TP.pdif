@@ -1,0 +1,125 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B5817W-TP"
+   (description "Diode 20 V 1A Surface Mount SOD-123")
+   (family "DIO")
+   (package "SOD3716X135N")
+   (attribute "Datasheet Link" "https://www.mccsemi.com/pdf/Products/B5817W-B5819W(SOD-123).pdf")
+   (attribute "Geometry.Height" "1.35mm")
+   (attribute "Mouser Part Number" "833-B5817W-TP")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/B5817W-TP?qs=6viq6gG%252BWEv8BqnTXWtCWg%3D%3D")
+   (attribute "Manufacturer_Name" "MCC")
+   (attribute "Manufacturer_Part_Number" "B5817W-TP")
+   (gate
+    (symbol "B5817W-TP")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "B5817W-TP"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 340 100) (pt 340 60))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -100) (pt 260 -100) (pt 260 -60))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 500 0) (pt 600 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 0) (pt 500 100) (pt 500 -100) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 100 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOD3716X135N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.575 1.675)
+      (pt 2.575 1.675)
+      (pt 2.575 -1.675)
+      (pt -2.575 -1.675)
+      (pt -2.575 1.675))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.35 0.8)
+      (pt 1.35 0.8)
+      (pt 1.35 -0.8)
+      (pt -1.35 -0.8)
+      (pt -1.35 0.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.35 0.275)
+      (pt -0.825 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.325 0.8)
+      (pt 1.35 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.35 -0.8)
+      (pt 1.35 -0.8))))
+   (leg 1 (pt -1.8 0) (padstack 0))
+   (leg 2 (pt 1.8 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.75 1.05 0 0 0))
+   )
+   (model "B5817W-TP.stp"
+    (euler 90 0 0)
+    (offset -0.2800000011920929 2.799999952316284 0.7200000286102295)
+   )
+  )
+ )
+)

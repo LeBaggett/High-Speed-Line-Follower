@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB4940-00-A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-01-30-07:52:04)
+    (mountForm default
+        (footprintRef "USB494000A")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=MCC
+PartNumber=B5817W-TP
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=3.2
+Released=2024-01-01 04:42:53
+Downloaded=2026-07-27 21:39:27
+3D=Y

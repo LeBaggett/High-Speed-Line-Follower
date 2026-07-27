@@ -1,0 +1,17 @@
+.USB4940-00-A :1 ;USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle , 48VDC , -40C ~ 85C
+USB494000A
+*STM J
+*NGS
+*PNM 1=A1 2=A4 3=A5 4=A6 5=A7 6=A8 7=B1 8=B4 9=B5 10=B6 11=B7 12=B8 13=S1 14=S2 15=S3 16=S4
+*PLB 1="GND_1" 2="VBUS_1" 3="CC1" 4="DP1" 5="DN1" 6="SBU1" 7="GND_2" 8="VBUS_2" 9="CC2" 10="DP2" 11="DN2" 12="SBU2" 13="GND_3" 14="GND_4" 15="GND_5" 16="GND_6"
+*MXP 18
+*DFN USB4940-00-A
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB4940-00-A)
+~!Link Datasheet (-)
+~!Height (3.46mm)
+~!3D_Model (USB4940-00-A)
+USB4940-00-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

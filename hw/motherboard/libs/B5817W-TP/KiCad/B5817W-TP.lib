@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B5817W-TP
+#/1255215/2120197/2.50/2/2/Schottky Diode
+DEF B5817W-TP D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "B5817W-TP" 500 250 50 H V L CNN
+F2 "SOD3716X135N" 500 150 50 H I L CNN
+F3 "https://www.mccsemi.com/pdf/Products/B5817W-B5819W(SOD-123).pdf" 500 50 50 H I L CNN
+F4 "Diode 20 V 1A Surface Mount SOD-123" 500 -50 50 H I L CNN "Description"
+F5 "1.35" 500 -150 50 H I L CNN "Height"
+F6 "833-B5817W-TP" 500 -250 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/B5817W-TP?qs=6viq6gG%252BWEv8BqnTXWtCWg%3D%3D" 500 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "MCC" 500 -450 50 H I L CNN "Manufacturer_Name"
+F9 "B5817W-TP" 500 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library
