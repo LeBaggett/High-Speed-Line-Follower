@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HSLF") (type "KiCad") (uri "C:/Users/Nexus/git/High-Speed-Line-Follower/hw/motherboard/libs/HSLF.pretty") (options "") (descr ""))
+)
